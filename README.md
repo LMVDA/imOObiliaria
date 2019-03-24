@@ -1,5 +1,5 @@
 # imOObiliaria
-Object Oriented Programming project
+## Object Oriented Programming project
 
 Development of an application that manages properties (such as houses and apartments)
 in a real estate agency, from the registration of the property in the system to the closing of
